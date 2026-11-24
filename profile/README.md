@@ -30,9 +30,9 @@ Macros share one pathfinder, one route system and one set of failsafes, so a new
 | [Mining](https://polinexclient.com/mining-macros) | Mithril, Dwarven Commissions, Glacite Commissions, Gemstone, Powder, Tunnel Miner, Mineshaft, Excavator, Ore, Obsidian, Frozen Treasure, End Stone, Ender Node |
 | [Farming](https://polinexclient.com/farming-macros) | All 12 Garden crops, Visitors, Pest Cleaner, Sprayonator, Greenhouse, Composter |
 | [Combat](https://polinexclient.com/combat-macros) | Voidgloom, Revenant, Sven and Tarantula slayers, Diana, Zealots, Ghosts, Goblins, Glacite Walkers |
-| Fishing and foraging | Fishing, Trophy Fishing, Stridersurfer, Galatea Trees, Berries, Mudworms |
-| Rift | Timite, Berberis, Agaricus Cap, Living Metal, Caducous, Sun Gecko, Volt, Mirrorverse Dance |
-| Progression | Attribute Maxer, Museum, Talisman, Experiments, Minions, Alchemy, Pelts, Carnival |
+| [Fishing and foraging](https://polinexclient.com/features#macros) | Fishing, Trophy Fishing, Stridersurfer, Galatea Trees, Berries, Mudworms |
+| [Rift](https://polinexclient.com/features#macros) | Timite, Berberis, Agaricus Cap, Living Metal, Caducous, Sun Gecko, Volt, Mirrorverse Dance |
+| [Progression](https://polinexclient.com/features#macros) | Attribute Maxer, Museum, Talisman, Experiments, Minions, Alchemy, Pelts, Carnival |
 
 ### [Mining](https://polinexclient.com/mining-macros)
 
@@ -58,18 +58,18 @@ Macros share one pathfinder, one route system and one set of failsafes, so a new
 - **Diana Macro**: finds and digs griffin burrows, answers the Sphinx and fights the Mythological creatures
 - Zealot, Ghost, Goblin and Glacite Walker macros
 
-### Fishing and foraging
+### [Fishing and foraging](https://polinexclient.com/features#macros)
 
 - **Fishing Macro**: water or lava, with travel, sea-creature combat and hotspot hunting
 - **Trophy Fishing Macro**: targets the Trophy Fish tiers you are missing on the Crimson Isle
 - **Stridersurfer Macro** for the Galatea cage
 - **Galatea Tree, Berry and Mudworm Macros** on Galatea and in Torrhus Canyon
 
-### Rift
+### [Rift](https://polinexclient.com/features#macros)
 
 Timite, Berberis, Agaricus Cap, Living Metal, Caducous, Sun Gecko, Volt and Mirrorverse Dance macros.
 
-### Progression
+### [Progression](https://polinexclient.com/features#macros)
 
 - **Attribute Maxer**: ranks shard upgrades by value, then buys and syphons to your target
 - **Museum** and **Talisman Macros**: fill donations and Magical Power cheapest-first within a budget
